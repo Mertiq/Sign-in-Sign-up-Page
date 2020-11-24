@@ -1,4 +1,4 @@
-# Sign in Sign Up Page
+# Sign in Sign up Page
 
 This is a project which include sign in and sign up pages made with React. 
 
